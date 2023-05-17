@@ -18,7 +18,7 @@
 #### 2. [SMAN 2 Lumajang](https://sman2-lmj.sch.id/) | MIPA | Lumajang `2017-2020`
 
 ## STUDENT EXPERIENCE:
-#### 1. [Student Association Computer Engineering] | Medinfo | Surabaya 2020 - Now
+#### 1. [Student Association Computer Engineering] | Medinfo | Surabaya 
    - Worked with a team of 6 students and responsible for disseminating information on social media such as Instagram, line, youtube, website etc.
    - play a role in planning social media content that increases social media engagement
    - increase website traffic
