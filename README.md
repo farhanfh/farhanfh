@@ -14,7 +14,7 @@
 
 
 ## Education:
-#### 1. [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/en/) | Bachelor of Computer Engineering | Surabaya `2020-Now`
+#### 1. [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/en/) | Bachelor of Computer Engineering | Surabaya `2020-2024`
 #### 2. [SMAN 2 Lumajang](https://sman2-lmj.sch.id/) | MIPA | Lumajang `2017-2020`
 
 ## Student Experience:
